@@ -1,4 +1,4 @@
-# Data_Analysis_Using_Python
+# Electronic Store Sales Data Analysis
 Performing data cleaning, analysis, visualization of store sales data using python.
 
 Task 1: Cleaning the data.
